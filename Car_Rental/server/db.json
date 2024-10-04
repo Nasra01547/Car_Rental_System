@@ -1,0 +1,87 @@
+{
+  "PickupDetails": [
+    {
+      "id": "PUDT-Wusafjw5tjDHRmAyl",
+      "location": "colombo",
+      "pickDate": "2024-10-03",
+      "pickTime": "14:25",
+      "returnDate": "2024-10-04",
+      "returnTime": "14:28"
+    }
+  ],
+  "newCars": [
+    {
+      "brand": "Toyota",
+      "models": [
+        "Camry",
+        "Corolla"
+      ],
+      "id": "2e93"
+    },
+    {
+      "brand": "Honda",
+      "models": [
+        "Civic",
+        "Accord"
+      ],
+      "id": "b35a"
+    },
+    {
+      "id": "9696",
+      "brand": "BMW",
+      "models": [
+        "M3"
+      ]
+    },
+    {
+      "id": "9fc3",
+      "brand": "Lamborghini",
+      "models": [
+        "M3"
+      ]
+    },
+    {
+      "id": "0662",
+      "brand": "Nissan",
+      "models": []
+    },
+    {
+      "id": "af6b",
+      "brand": "hdghs",
+      "models": []
+    },
+    {
+      "id": "b375",
+      "brand": "hvdfvfhjh",
+      "models": []
+    },
+    {
+      "id": "24ba",
+      "brand": "fdsjhjkash",
+      "models": []
+    },
+    {
+      "id": "09ef",
+      "brand": "dsacas",
+      "models": []
+    },
+    {
+      "id": "404a",
+      "brand": "keldhqwh",
+      "models": []
+    },
+    {
+      "id": "9df1",
+      "brand": "cnhaskhc",
+      "models": []
+    },
+    {
+      "id": "8dcc",
+      "brand": "dhcjh",
+      "models": []
+    }
+  ],
+  "cars": [
+  ],
+  "users": []
+}
